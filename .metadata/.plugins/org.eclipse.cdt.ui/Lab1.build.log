@@ -1,0 +1,8 @@
+18:42:24 **** Incremental Build of configuration GNU ARM v7.2.1 - Default for project Lab1 ****
+make -j12 pre-build main-build 
+cmd //c 'C:\Users\TrungNT\SIMPLI~1\V4_WOR~1\Lab1/Lab1-prebuild.bat' 'Lab1' 'C:/Users/TrungNT/SimplicityStudio/v4_workspace/Lab1' '' 'C:\SiliconLabs\SimplicityStudio\v4'
+make: Nothing to be done for `main-build'.
+ 
+
+18:42:31 Build Finished (took 7s.25ms)
+

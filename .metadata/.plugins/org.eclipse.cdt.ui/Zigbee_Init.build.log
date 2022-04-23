@@ -1,0 +1,8 @@
+13:05:38 **** Incremental Build of configuration GNU ARM v7.2.1 - Default for project Zigbee_Init ****
+make -j12 pre-build main-build 
+cmd //c 'C:\Users\TrungNT\SIMPLI~1\V4_WOR~1\ZIGBEE~4/Zigbee3_Target-prebuild.bat' 'Zigbee_Init' 'C:/Users/TrungNT/SimplicityStudio/v4_workspace/Zigbee_Init' '' 'C:\SiliconLabs\SimplicityStudio\v4'
+make: Nothing to be done for `main-build'.
+ 
+
+13:05:45 Build Finished (took 7s.299ms)
+

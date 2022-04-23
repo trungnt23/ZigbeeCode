@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="${workspace_loc:/${ProjName}/Source/Mid/Kalman_filter}" key="org.eclipse.cdt.utils.ui.controls.FileListControl"/>
+	<item value="Default C source template" key="LastUsedSourceTemplate"/>
+	<item value="Default C header template" key="LastUsedHeaderTemplate"/>
+	<section name="org.eclipse.cdt.ui.OPEN_ACTION_SELECTION_DIALOG_SECTION">
+		<item value="526" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="575" key="DIALOG_HEIGHT"/>
+		<item value="706" key="DIALOG_X_ORIGIN"/>
+		<item value="141" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration.internal">
+		<item value="183" key="size.height"/>
+		<item value="1016" key="size.width"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+	</section>
+	<section name="PDOMSearchPage">
+		<item value="false" key="caseSensitive"/>
+		<item value="227191" key="searchFlags"/>
+		<list key="previousPatterns">
+			<item value="emGpTransmitComplete"/>
+			<item value="emberGpepIncomingMessageHandler"/>
+			<item value="emberAfOnOffClusterOffCallback3"/>
+			<item value="writeAttribute"/>
+			<item value="emberAfPluginNetworkSteeringFinishSteering"/>
+			<item value="emberAfStackStatusCallback"/>
+			<item value="emberAfCurrentCommand"/>
+			<item value="emAfTimeClusterServerGetCurrentTime"/>
+			<item value="CurrentTime"/>
+			<item value="ZCL_ON_OFF_CLUSTER_ID"/>
+			<item value="binding"/>
+			<item value="UNICAST"/>
+			<item value="0x0008"/>
+			<item value="EmberBindingTableEntry"/>
+			<item value="EmberAfClusterCommand"/>
+			<item value="emberAfPreCommandReceivedCallback"/>
+			<item value="AfMain"/>
+			<item value="cmuClock_IADC0"/>
+			<item value="IADC_resetIADC0"/>
+			<item value="TaiDD"/>
+			<item value="PRESS"/>
+		</list>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="1" key="askReindex.detail"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+</section>
